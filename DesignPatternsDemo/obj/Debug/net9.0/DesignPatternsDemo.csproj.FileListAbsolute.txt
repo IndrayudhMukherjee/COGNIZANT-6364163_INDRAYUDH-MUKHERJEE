@@ -1,0 +1,14 @@
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/DesignPatternsDemo/obj/Debug/net9.0/DesignPatternsDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/DesignPatternsDemo/obj/Debug/net9.0/DesignPatternsDemo.AssemblyInfoInputs.cache
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/DesignPatternsDemo/obj/Debug/net9.0/DesignPatternsDemo.AssemblyInfo.cs
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/DesignPatternsDemo/obj/Debug/net9.0/DesignPatternsDemo.csproj.CoreCompileInputs.cache
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/DesignPatternsDemo/bin/Debug/net9.0/DesignPatternsDemo
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/DesignPatternsDemo/bin/Debug/net9.0/DesignPatternsDemo.deps.json
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/DesignPatternsDemo/bin/Debug/net9.0/DesignPatternsDemo.runtimeconfig.json
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/DesignPatternsDemo/bin/Debug/net9.0/DesignPatternsDemo.dll
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/DesignPatternsDemo/bin/Debug/net9.0/DesignPatternsDemo.pdb
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/DesignPatternsDemo/obj/Debug/net9.0/DesignPatternsDemo.dll
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/DesignPatternsDemo/obj/Debug/net9.0/refint/DesignPatternsDemo.dll
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/DesignPatternsDemo/obj/Debug/net9.0/DesignPatternsDemo.pdb
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/DesignPatternsDemo/obj/Debug/net9.0/DesignPatternsDemo.genruntimeconfig.cache
+/Users/indrayudhsmac/Desktop/COGNIZ-SOLUTIONS/WEEK1-IN C#/DesignPatternsDemo/obj/Debug/net9.0/ref/DesignPatternsDemo.dll

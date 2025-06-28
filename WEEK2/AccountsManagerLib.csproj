@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework> <!-- or net6.0 -->
+    <RootNamespace>AccountsManagerLib</RootNamespace>
+    <AssemblyName>AccountsManagerLib</AssemblyName>
+  </PropertyGroup>
+
+</Project>

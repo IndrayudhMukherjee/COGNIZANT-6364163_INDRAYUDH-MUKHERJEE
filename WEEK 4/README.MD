@@ -1,8 +1,7 @@
 # WEEK 4 - Cognizant Web API Hands-on
 
 **Name:** Indrayudh Mukherjee  
-**Employee ID:** 6364163  
-**Repository:** [COGNIZANT-6364163_INDRAYUDH-MUKHERJEE](https://github.com/IndrayudhMukherjee/COGNIZANT-6364163_INDRAYUDH-MUKHERJEE)
+**SUPERSET ID:** 6364163 
 
 ---
 
@@ -39,21 +38,17 @@ cd COGNIZANT-6364163_INDRAYUDH-MUKHERJEE/WEEK-4
 Restore and Build
 
 bash
-Copy
-Edit
+
 dotnet restore
 dotnet build
 Run the Web API
 
 bash
-Copy
-Edit
+
 dotnet run
 Access Swagger UI
 
-bash
-Copy
-Edit
+
 http://localhost:5026/swagger
 🔐 Generate JWT Token
 Expand GET /api/Auth/token
@@ -66,10 +61,6 @@ Copy the token from the response
 Click Authorize (top right in Swagger UI)
 
 Paste:
-
-php-template
-Copy
-Edit
 Bearer <your_token_here>
 Click Authorize
 
@@ -83,25 +74,6 @@ DELETE	/api/Employee/{id}	Delete employee by ID
 
 🔒 All /api/Employee/* endpoints are protected by JWT + Role Admin.
 
-📝 Sample JSON for POST / PUT
-json
-Copy
-Edit
-{
-  "name": "Indrayudh Mukherjee",
-  "salary": 90000,
-  "permanent": true,
-  "dateOfBirth": "2000-04-15T00:00:00",
-  "department": {
-    "id": 201,
-    "name": "Engineering"
-  },
-  "skills": [
-    { "id": 1, "name": "C#" },
-    { "id": 2, "name": "ASP.NET Core" },
-    { "id": 3, "name": "Swagger" }
-  ]
-}
 📁 Project Structure
 mathematica
 Copy
@@ -122,9 +94,6 @@ Indrayudh Mukherjee
 Cognizant Hands-on Submission (Week 4)
 Employee ID: 6364163
 
-yaml
-Copy
-Edit
 
 ---
 

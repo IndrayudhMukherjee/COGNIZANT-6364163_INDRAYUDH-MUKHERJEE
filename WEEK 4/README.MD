@@ -1,1 +1,139 @@
+# WEEK 4 - Cognizant Web API Hands-on
 
+**Name:** Indrayudh Mukherjee  
+**Employee ID:** 6364163  
+**Repository:** [COGNIZANT-6364163_INDRAYUDH-MUKHERJEE](https://github.com/IndrayudhMukherjee/COGNIZANT-6364163_INDRAYUDH-MUKHERJEE)
+
+---
+
+## ✅ Features Implemented
+
+- ✅ ASP.NET Core Web API (.NET 6/7+)
+- ✅ JWT-based Authentication and Token Generation
+- ✅ Role-based Authorization using `[Authorize(Roles = "...")]`
+- ✅ Secure Endpoints: Employee CRUD
+- ✅ Swagger UI Integration with JWT Bearer token input
+- ✅ Clean separation: Controllers, Models, Services, Filters, Utils
+- ✅ Hardcoded data used for simulation
+- ✅ Proper GitHub structure and documentation
+
+---
+
+## 📦 Technologies Used
+
+- ASP.NET Core Web API
+- JWT (JSON Web Tokens)
+- Swagger (Swashbuckle)
+- Dependency Injection
+- CORS (optional), Filters, Exception Handling
+
+---
+
+## 🚀 How to Run the Project Locally
+
+1. **Clone the Repository**
+
+```bash
+git clone https://github.com/IndrayudhMukherjee/COGNIZANT-6364163_INDRAYUDH-MUKHERJEE.git
+cd COGNIZANT-6364163_INDRAYUDH-MUKHERJEE/WEEK-4
+Restore and Build
+
+bash
+Copy
+Edit
+dotnet restore
+dotnet build
+Run the Web API
+
+bash
+Copy
+Edit
+dotnet run
+Access Swagger UI
+
+bash
+Copy
+Edit
+http://localhost:5026/swagger
+🔐 Generate JWT Token
+Expand GET /api/Auth/token
+
+Click Try it out → Execute
+
+Copy the token from the response
+
+🔓 Authenticate Swagger Requests
+Click Authorize (top right in Swagger UI)
+
+Paste:
+
+php-template
+Copy
+Edit
+Bearer <your_token_here>
+Click Authorize
+
+🔄 Test API Endpoints
+Method	Endpoint	Description
+GET	/api/Employee	Get all employees
+GET	/api/Employee/{id}	Get employee by ID
+POST	/api/Employee	Add new employee
+PUT	/api/Employee/{id}	Update employee by ID
+DELETE	/api/Employee/{id}	Delete employee by ID
+
+🔒 All /api/Employee/* endpoints are protected by JWT + Role Admin.
+
+📝 Sample JSON for POST / PUT
+json
+Copy
+Edit
+{
+  "name": "Indrayudh Mukherjee",
+  "salary": 90000,
+  "permanent": true,
+  "dateOfBirth": "2000-04-15T00:00:00",
+  "department": {
+    "id": 201,
+    "name": "Engineering"
+  },
+  "skills": [
+    { "id": 1, "name": "C#" },
+    { "id": 2, "name": "ASP.NET Core" },
+    { "id": 3, "name": "Swagger" }
+  ]
+}
+📁 Project Structure
+mathematica
+Copy
+Edit
+WEEK-4/
+├── Controllers/
+├── Models/
+├── Filters/
+├── Services/
+├── Utils/
+├── Properties/
+├── Program.cs
+├── MyWebApi.csproj
+├── .gitignore
+└── README.md
+🙌 Author
+Indrayudh Mukherjee
+Cognizant Hands-on Submission (Week 4)
+Employee ID: 6364163
+
+yaml
+Copy
+Edit
+
+---
+
+## 📌 What to Do Next
+
+1. Copy this text into your `README.md` file inside `WEEK-4/`
+2. Commit and push:
+
+```bash
+git add README.md
+git commit -m "Added project README for Cognizant submission"
+git push

@@ -75,9 +75,7 @@ DELETE	/api/Employee/{id}	Delete employee by ID
 🔒 All /api/Employee/* endpoints are protected by JWT + Role Admin.
 
 📁 Project Structure
-mathematica
-Copy
-Edit
+
 WEEK-4/
 ├── Controllers/
 ├── Models/
@@ -89,10 +87,6 @@ WEEK-4/
 ├── MyWebApi.csproj
 ├── .gitignore
 └── README.md
-🙌 Author
-Indrayudh Mukherjee
-Cognizant Hands-on Submission (Week 4)
-Employee ID: 6364163
 
 
 ---

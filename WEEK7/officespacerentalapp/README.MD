@@ -28,9 +28,7 @@ node_modules/
 📄 README Template (for all 5 projects)
 You can copy-paste this and customize project-name, description, and features:
 
-md
-Copy
-Edit
+
 # ReactJS Hands-On Lab – `<project-name>`
 
 This is a mini ReactJS project built as part of hands-on practice for learning key React and modern JavaScript (ES6) features.
@@ -78,9 +76,7 @@ Or use Vercel for 1-click React deployments.
 📝 Author
 Made with ❤️ by [Your Name]
 
-yaml
-Copy
-Edit
+
 
 ---
 
@@ -96,9 +92,7 @@ react-hands-on-labs/
 ├── cricketapp/
 └── README.md
 
-yaml
-Copy
-Edit
+
 
 Or create **one repo per project** if submitting individually.
 

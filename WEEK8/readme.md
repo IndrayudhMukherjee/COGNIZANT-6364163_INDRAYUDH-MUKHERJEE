@@ -2,6 +2,7 @@
 
 This repository contains step-by-step Git hands-on exercises adapted from the COGNIZANT Git HOL series.  
 All commands are updated  use `main` instead of `master`.
+Output screenshots in the doc file
 
 ---
 

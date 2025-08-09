@@ -1,12 +1,11 @@
-# Git Hands-On Labs (Mac M1 + VS Code Edition)
+# Git Hands-On Labs 
 
 This repository contains step-by-step Git hands-on exercises adapted from the COGNIZANT Git HOL series.  
-All commands are updated for macOS (Apple Silicon) and use `main` instead of `master`.
+All commands are updated  use `main` instead of `master`.
 
 ---
 
 ## Prerequisites
-- Mac M1 with macOS 12+
 - VS Code installed and configured with `code` command in PATH
 - Git installed (`brew install git`)
 - GitHub account
